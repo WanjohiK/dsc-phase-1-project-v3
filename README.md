@@ -111,6 +111,8 @@ Landing Infrastructure: Conduct a feasibility study on improving landing infrast
 # Thank You
 
 For any further questions or clarifications, please feel free to contact me.
-			Contact Information: Kelvin Wanjohi Nyawira
-			Phone Number: 0708555370
+			
+   Contact Information: Kelvin Wanjohi Nyawira
+   
+	Phone Number: +254708555370
 
