@@ -16,6 +16,9 @@ The primary audience for this analysis is the Head of the Aviation Division, who
 
 The dataset used in this analysis contains aviation accident records from the National Transportation Safety Board (NTSB), spanning from 1962 to 2023. 
 
+![image](https://github.com/user-attachments/assets/3649f231-5a97-469e-be24-04c1bdb44c83)
+
+
 This rich dataset includes information on various aircraft types, accident severity, causes, locations, and other contributing factors.
 
  The primary goal is to assess the historical performance of different aircraft models by examining accident frequency, severity, and the underlying risk factors associated with each type of aircraft.
