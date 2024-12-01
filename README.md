@@ -25,9 +25,9 @@ This rich dataset includes information on various aircraft types, accident sever
 
 # Objectives
 
-				General Objective
+##General Objective
 To identify the safest aircraft that the company can purchase through analyzing aviation accident data and provide actionable insights for good decision making. 
-						Specific objectives
+### Specific objectives
 1. To evaluate the aviation accident data with the goal of identifying the aircraft with the highest safety records and lowest risk. 
 2. To analyze the data to understand factors contributing to accident frequency and severity. 
 3. To use Geospatial Map to visualize accident distribution and risk hotspots the US and relationship between them and specific aircraft.
