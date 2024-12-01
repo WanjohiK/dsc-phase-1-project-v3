@@ -26,21 +26,21 @@ This rich dataset includes information on various aircraft types, accident sever
 
 # Technologies used
 
-## Python
+## 			Python
 Data cleaning and preprocessing.
 Advanced analysis such as calculating severity scores and filtering datasets.
 Visualization for exploratory data analysis (EDA) and quick insights using libraries like Matplotlib and Seaborn.
 
-## Tableau
+## 			Tableau
 Creating interactive dashboards for decision-making.
 Geospatial visualizations to identify accident hotspots.
 
 
 # Objectives
 
-## General Objective
+## 			General Objective
 To identify the safest aircraft that the company can purchase through analyzing aviation accident data and provide actionable insights for good decision making. 
-### Specific objectives
+### 						Specific objectives
 1. To evaluate the aviation accident data with the goal of identifying the aircraft with the highest safety records and lowest risk. 
 2. To analyze the data to understand factors contributing to accident frequency and severity. 
 3. To use Geospatial Map to visualize accident distribution and risk hotspots the US and relationship between them and specific aircraft.
