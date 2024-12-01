@@ -28,11 +28,14 @@ This rich dataset includes information on various aircraft types, accident sever
 
 ## 			Python
 Data cleaning and preprocessing.
+
 Advanced analysis such as calculating severity scores and filtering datasets.
+
 Visualization for exploratory data analysis (EDA) and quick insights using libraries like Matplotlib and Seaborn.
 
 ## 			Tableau
 Creating interactive dashboards for decision-making.
+
 Geospatial visualizations to identify accident hotspots.
 
 
