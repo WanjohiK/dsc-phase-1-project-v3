@@ -34,7 +34,7 @@ To identify the safest aircraft that the company can purchase through analyzing 
 
 # Severity Scores for top 10 Aircraft
 
-
+![image](https://github.com/user-attachments/assets/26b089f4-72b0-49a0-9785-b8d8c9d61d1e)
 
 Private aircraft, such as the Piper-PA-28-161 and Cessna 150, tend to have lower severity scores. 
 
@@ -45,16 +45,23 @@ Therefore, the risk of investing in private plane is higher than in commercial p
 
 # Accident Severity 
 
+![image](https://github.com/user-attachments/assets/7a08769a-a010-4c39-88f9-1a169c1c8672)
+
 Weather conditions are the dominant factor influencing accident severity, with a clear correlation to severe weather events causing higher-risk incidents.
 
 The correction among Engine type, broad-phase of flight and weather condition is also very low. 
 
 # Broad phase of Flight vs Severity Score
 
+![image](https://github.com/user-attachments/assets/fa241ba1-36e4-46ed-93d0-83a8434a3a34)
+
 Understanding the broad phases of flight is essential for aviation professionals to ensure safety, efficiency, and compliance throughout the entire flight journey.
 Based on the above, most accidents happen during landing, followed by cruise and then takeoff. Very few accidents happen when a plane is standing and when taxiing to the Runway.
 
 # Severity Score vs purpose of flight 
+
+![image](https://github.com/user-attachments/assets/42942a9a-6666-4ebe-9d6d-a526e9419303)
+
 
 Analyzing severity scores in relation to the purpose of the flight was important in identifying patterns and risks associated with different flight activities.
 
@@ -63,6 +70,7 @@ Personal and instructor flights had the highest severity score while ferry and e
 
 # Severity Scores VS US States
 
+![image](https://github.com/user-attachments/assets/c5a6b47a-583e-4007-a0a4-49d6c6602c98)
 
 California has the highest severity scores, followed by Florida and Texas, suggesting these states have higher accident rates compared to others.
 
