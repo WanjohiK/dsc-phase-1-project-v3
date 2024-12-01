@@ -23,6 +23,19 @@ This rich dataset includes information on various aircraft types, accident sever
 
  The primary goal is to assess the historical performance of different aircraft models by examining accident frequency, severity, and the underlying risk factors associated with each type of aircraft.
 
+
+# Technologies used
+
+## Python
+Data cleaning and preprocessing.
+Advanced analysis such as calculating severity scores and filtering datasets.
+Visualization for exploratory data analysis (EDA) and quick insights using libraries like Matplotlib and Seaborn.
+
+## Tableau
+Creating interactive dashboards for decision-making.
+Geospatial visualizations to identify accident hotspots.
+
+
 # Objectives
 
 ## General Objective
