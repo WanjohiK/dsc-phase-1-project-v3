@@ -42,13 +42,13 @@ Geospatial visualizations to identify accident hotspots.
 # Objectives
 
 ## 			General Objective
-To identify the safest aircraft that the company can purchase through analyzing aviation accident data and provide actionable insights for good decision making. 
+To identify the safest aircraft that the company can purchase through analyzing aviation accident data and, provide actionable insights for good decision-making. 
 ### 						Specific objectives
-1. To evaluate the aviation accident data with the goal of identifying the aircraft with the highest safety records and lowest risk. 
+1. To evaluate the aviation accident data to identify the aircraft with the highest safety records and lowest risk. 
 2. To analyze the data to understand factors contributing to accident frequency and severity. 
-3. To use Geospatial Map to visualize accident distribution and risk hotspots the US and relationship between them and specific aircraft.
+3. To use a Geospatial Map to visualize accident distribution and risk hotspots in the US and the relationship between them and specific aircraft.
 
-# Severity Scores for top 10 Aircraft
+# Severity Scores for Top 10 Aircraft
 
 ![image](https://github.com/user-attachments/assets/26b089f4-72b0-49a0-9785-b8d8c9d61d1e)
 
@@ -57,7 +57,7 @@ Private aircraft, such as the Piper-PA-28-161 and Cessna 150, tend to have lower
 However, this is still higher than for commercial aircraft
  The overall risk of accidents is higher in private aviation due to lower pilot experience and fewer safety features. 
 
-Therefore, the risk of investing in private plane is higher than in commercial planes
+Therefore, the risk of investing in private planes is higher than in commercial planes
 
 # Accident Severity 
 
@@ -65,14 +65,14 @@ Therefore, the risk of investing in private plane is higher than in commercial p
 
 Weather conditions are the dominant factor influencing accident severity, with a clear correlation to severe weather events causing higher-risk incidents.
 
-The correction among Engine type, broad-phase of flight and weather condition is also very low. 
+The correction among Engine type, broad phase of flight, and weather conditions is also very low. 
 
 # Broad phase of Flight vs Severity Score
 
 ![image](https://github.com/user-attachments/assets/fa241ba1-36e4-46ed-93d0-83a8434a3a34)
 
 Understanding the broad phases of flight is essential for aviation professionals to ensure safety, efficiency, and compliance throughout the entire flight journey.
-Based on the above, most accidents happen during landing, followed by cruise and then takeoff. Very few accidents happen when a plane is standing and when taxiing to the Runway.
+Based on the above, most accidents happen during landing, followed by cruise, and then take off. Very few accidents happen when a plane is standing and when taxiing to the Runway.
 
 # Severity Score vs purpose of flight 
 
@@ -96,16 +96,21 @@ North and South Dakota have the lowest accident severity, indicating a lower ris
 # Recommendations
 
 Prioritize Commercial Aircraft Over Private Aircraft: Commercial aircraft generally exhibit a lower risk of accidents compared to private aircraft. Investing in commercial aircraft would align with the company’s goal of minimizing risk and enhancing safety for the new aviation venture.
+
 Invest in Aircraft Resilient to Extreme Weather: Weather conditions are the leading cause of aviation accidents. The company should consider aircraft that are designed to withstand extreme weather, such as those equipped with better de-icing and weather detection systems.
+
 Focus on Landing Infrastructure and Safety Protocols: The landing phase of flight is where most accidents occur. The company should invest in improving airport infrastructure and implement robust safety protocols for landing procedures. This will reduce the overall risk during this critical phase of flight
-Invest in North and south Dakota: These best place to start the company since very few accidents happen there
+
+Invest in North and South Dakota: These are the best places to start the company since very few accidents happen there
 
 
 # Next Steps
 
 The following next steps should be taken to operationalize these findings:
  Aircraft Review: The company should review various commercial aircraft models that meet safety and weather-resilience criteria.
+ 
 Weather Resilience Investment: Identify and prioritize aircraft that have been proven to perform well in adverse weather conditions.
+
 Landing Infrastructure: Conduct a feasibility study on improving landing infrastructure, focusing on critical accident hotspots, particularly in states like California and Florida.
 
 # Thank You
